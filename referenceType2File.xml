@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>1e600689b463cfd41942b9eff4231dc9</guid>
+    <fileName>Assets/Scripts/Foragingui.cs</fileName>
+    <timeStamp>2026-05-05T17:59:05.3959662+01:00</timeStamp>
+    <typeFullName>
+      <string>ForagingUI</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>859e2e0f70027a7408c62f78915f6d41</guid>
+    <fileName>Assets/Scripts/GameManager.cs</fileName>
+    <timeStamp>2026-05-08T13:17:48.5381014+01:00</timeStamp>
+    <typeFullName>
+      <string>GameManager</string>
+      <string>GameManager+TrialRecord</string>
+      <string>GameManager+EventRecord</string>
+      <string>MiningResult</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>36ca09d97299ee243af9489e56fc01b1</guid>
+    <fileName>Assets/Scripts/GazeOverlayController.cs</fileName>
+    <timeStamp>2026-09-18T14:32:44.1623967+01:00</timeStamp>
+    <typeFullName>
+      <string>GazeOverlayController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cd6807f98552b9f4f92ffdbd4cc5647c</guid>
+    <fileName>Assets/Scripts/OrbManager.cs</fileName>
+    <timeStamp>2026-05-08T13:46:03.8172233+01:00</timeStamp>
+    <typeFullName>
+      <string>OrbManager</string>
+      <string>BillboardToCamera</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>45bce066755eab04aa3dd8046486ca20</guid>
+    <fileName>Assets/Scripts/PracticeManager.cs</fileName>
+    <timeStamp>2026-05-05T16:06:40.7939196+01:00</timeStamp>
+    <typeFullName>
+      <string>PracticeManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ea9456f4e20d65b45b405377d57405e6</guid>
+    <fileName>Assets/Scripts/PupilBridgeClient.cs</fileName>
+    <timeStamp>2026-05-08T12:47:22.369853+01:00</timeStamp>
+    <typeFullName>
+      <string>PupilBridgeClient</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e9ae0041fe5439c4ab8bdd8f79a09dd0</guid>
+    <fileName>Assets/Scripts/StartScreenManager.cs</fileName>
+    <timeStamp>2026-05-05T17:16:23.2532625+01:00</timeStamp>
+    <typeFullName>
+      <string>StartScreenManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b739d095dec1dc64eb4a378ecb4423b8</guid>
+    <fileName>Assets/Scripts/Townlevelmanager.cs</fileName>
+    <timeStamp>2026-05-05T17:42:19.9017792+01:00</timeStamp>
+    <typeFullName>
+      <string>TownLevelManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c035edf274fc254449a1ed06fb6ba148</guid>
+    <fileName>Assets/Scripts/Vrpickaxe.cs</fileName>
+    <timeStamp>2026-05-08T15:20:05.1582802+01:00</timeStamp>
+    <typeFullName>
+      <string>VRPickaxe</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2017-03-16T20:41:26+00:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.AssetCollector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2017-03-16T20:41:26+00:00</timeStamp>
+    <typeFullName>
+      <string>AssetReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2026-09-21T16:50:46.4044409+01:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ClassReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2017-03-16T20:44:11+00:00</timeStamp>
+    <typeFullName>
+      <string>CollectionData</string>
+      <string>TypeDate</string>
+      <string>IReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2017-03-16T20:41:26+00:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2017-03-16T20:41:26+00:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e087ecce43ebbff45a1b360637807d93</guid>
+    <fileName>Assets/StarterAssets/InputSystem/StarterAssetsInputs.cs</fileName>
+    <timeStamp>2026-03-12T23:18:43+00:00</timeStamp>
+    <typeFullName>
+      <string>StarterAssets.StarterAssetsInputs</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>909d917d73a63f940ac158d02e936645</guid>
+    <fileName>Assets/StarterAssets/FirstPersonController/Scripts/BasicRigidBodyPush.cs</fileName>
+    <timeStamp>2026-03-12T23:18:31+00:00</timeStamp>
+    <typeFullName>
+      <string>BasicRigidBodyPush</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>55919ac34a26952479f3fc91f777b2fa</guid>
+    <fileName>Assets/StarterAssets/FirstPersonController/Scripts/FirstPersonController.cs</fileName>
+    <timeStamp>2026-03-12T23:18:24+00:00</timeStamp>
+    <typeFullName>
+      <string>StarterAssets.FirstPersonController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fcf7219bab7fe46a1ad266029b2fee19</guid>
+    <fileName>Assets/StarterAssets/TutorialInfo/Scripts/Readme.cs</fileName>
+    <timeStamp>2026-04-07T18:32:55+01:00</timeStamp>
+    <typeFullName>
+      <string>Readme</string>
+      <string>Readme+Section</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4a300d010f57451488aa99000126fbd5</guid>
+    <fileName>Assets/StarterAssets/Mobile/Scripts/CanvasInputs/UICanvasControllerInput.cs</fileName>
+    <timeStamp>2026-03-12T23:18:23+00:00</timeStamp>
+    <typeFullName>
+      <string>StarterAssets.UICanvasControllerInput</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>901182334643ba1438a25accc6bd0c79</guid>
+    <fileName>Assets/StarterAssets/Mobile/Scripts/Utilities/MobileDisableAutoSwitchControls.cs</fileName>
+    <timeStamp>2026-03-12T23:18:31+00:00</timeStamp>
+    <typeFullName>
+      <string>MobileDisableAutoSwitchControls</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>448cd6d8e2f2cb04096e777d99974bc4</guid>
+    <fileName>Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualButton.cs</fileName>
+    <timeStamp>2026-03-12T23:18:21+00:00</timeStamp>
+    <typeFullName>
+      <string>UIVirtualButton</string>
+      <string>UIVirtualButton+BoolEvent</string>
+      <string>UIVirtualButton+Event</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f2cb8c4d669392748bb924209de33b85</guid>
+    <fileName>Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualJoystick.cs</fileName>
+    <timeStamp>2026-03-12T23:18:45+00:00</timeStamp>
+    <typeFullName>
+      <string>UIVirtualJoystick</string>
+      <string>UIVirtualJoystick+Event</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>65870f34fef70aa44b0f562cfc810220</guid>
+    <fileName>Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualTouchZone.cs</fileName>
+    <timeStamp>2026-03-12T23:18:25+00:00</timeStamp>
+    <typeFullName>
+      <string>UIVirtualTouchZone</string>
+      <string>UIVirtualTouchZone+Event</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>476cc7d7cd9874016adc216baab94a0a</guid>
+    <fileName>Assets/StarterAssets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs</fileName>
+    <timeStamp>2026-04-07T18:30:16+01:00</timeStamp>
+    <typeFullName>
+      <string>ReadmeEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e766f86cb7d2461683eb37d8a971fb14</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.3.1/Starter Assets/Scripts/ClimbTeleportDestinationIndicator.cs</fileName>
+    <timeStamp>2025-12-16T01:09:24+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4a5f76f9ea8c80547973ab01877f9567</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.3.1/Starter Assets/Scripts/ControllerAnimator.cs</fileName>
+    <timeStamp>2025-12-16T01:09:24+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f9ac216f0eb04754b1d938aac6380b31</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.3.1/Starter Assets/Scripts/ControllerInputActionManager.cs</fileName>
+    <timeStamp>2025-12-16T01:09:24+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>717c12e2a4cfe764ab2580b1135e10fd</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.3.1/Starter Assets/Scripts/DestroySelf.cs</fileName>
+    <timeStamp>2025-12-16T01:09:24+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9b1e8c997df241c1a67045eeac79b41b</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.3.1/Starter Assets/Scripts/DynamicMoveProvider.cs</fileName>
+    <timeStamp>2025-12-16T01:09:24+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6ef0e4723b64c884699a375196c13ac0</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.3.1/Starter Assets/Scripts/GazeInputManager.cs</fileName>
+    <timeStamp>2025-12-16T01:09:24+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e7883133e628dff4a86f50c082f77055</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.3.1/Starter Assets/Scripts/MaterialPipelineHandler.cs</fileName>
+    <timeStamp>2025-12-16T01:09:24+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>956dd6cf70eaca449a45b6a95b96c8c1</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.3.1/Starter Assets/Scripts/ObjectSpawner.cs</fileName>
+    <timeStamp>2025-12-16T01:09:24+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4f62c7b7418ee024aa16285921e63d56</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.3.1/Starter Assets/Scripts/PermissionsManager.cs</fileName>
+    <timeStamp>2025-12-16T01:09:24+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3ce213c1f32595b4888e78a36e017d3e</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.3.1/Starter Assets/Scripts/PlatformUnderstanding.cs</fileName>
+    <timeStamp>2025-12-16T01:09:24+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4dd2e41114c62b44fbd334ca5b314352</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.3.1/Starter Assets/Scripts/RotationAxisLockGrabTransformer.cs</fileName>
+    <timeStamp>2025-12-16T01:09:24+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7da98a0edd844d83b9b4de3f91de030c</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.3.1/Starter Assets/Scripts/TeleportVolumeAnchorAffordanceStateLink.cs</fileName>
+    <timeStamp>2025-12-16T01:09:24+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cb280e627cedda749b93045b8dd8d327</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.3.1/Starter Assets/Scripts/ToggleColorToggler.cs</fileName>
+    <timeStamp>2025-12-16T01:09:24+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5fe39fdeebcc91a45919bfcb77ef6eb4</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.3.1/Starter Assets/Scripts/ToggleComponentZone.cs</fileName>
+    <timeStamp>2025-12-16T01:09:24+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>07b3638c2f5db5b479ff24c2859713d4</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.3.1/Starter Assets/Scripts/XRPokeFollowAffordance.cs</fileName>
+    <timeStamp>2025-12-16T01:09:24+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ba6ff5e7c92519444bc2a7ca46558963</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.3.1/Starter Assets/DemoSceneAssets/Scripts/IncrementUIText.cs</fileName>
+    <timeStamp>2025-12-16T01:09:24+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e001d3dc91354f8f8c590b4e1d1d3da9</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.3.1/Starter Assets/DemoSceneAssets/Scripts/MultiAnchorTeleportReticle.cs</fileName>
+    <timeStamp>2025-12-16T01:09:24+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ef67ceb22b2224643a2d5004fc2a678a</guid>
+    <fileName>Assets/Samples/XR Interaction Toolkit/3.3.1/Starter Assets/Editor/Scripts/StarterAssetsSampleProjectValidation.cs</fileName>
+    <timeStamp>2025-12-16T01:09:24+00:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+</ArrayOfTypeDate>
